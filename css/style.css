@@ -1,0 +1,76 @@
+/*body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #e6399b;
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #fff;
+}
+
+main {
+    padding: 2em;
+}
+
+.video {
+    margin-bottom: 2em;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 1em 0;
+}
+
+.description {
+    font-size: 1.2em;
+}
+
+.tags span {
+    display: inline-block;
+    background-color: #e6399b;
+    color: #fff;
+    padding: 0.5em;
+    margin-right: 0.5em;
+    border-radius: 5px;
+}
+
+.comments textarea {
+    width: 100%;
+    max-width: 600px;
+    height: 100px;
+    margin-top: 1em;
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+.comments button {
+    margin-top: 0.5em;
+    background-color: #e6399b;
+    color: #fff;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #222;
+    padding: 1em;
+    text-align: center;
+    margin-top: 2em;
+}
+
+footer a {
+    color: #e6399b;
+    text-decoration: none;
+}Add all your styles here */
